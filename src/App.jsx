@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import { Sidebar } from './Components/Sidebar/Sidebar'
 import { Main } from './Components/Main/Main'
-import { ThemeProvider } from './context/Theme'
+import { ThemeProvider } from './Context/Theme'
 import ThemeBtn from './Components/Main/Themebtn'
 import { useEffect } from 'react'
 

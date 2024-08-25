@@ -1,10 +1,7 @@
 import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
-import './App.css'
 import { Sidebar } from './Components/Sidebar/Sidebar'
 import { Main } from './Components/Main/Main'
-import { ThemeProvider } from './Context/Theme'
+import { ThemeProvider } from './context/Theme'
 import ThemeBtn from './Components/Main/Themebtn'
 import { useEffect } from 'react'
 

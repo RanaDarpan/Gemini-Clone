@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+ /* ities; */
+
+@keyframes loader {
+    0% {
+        background-position: 0px 0px; /* Start position */
+    }
+    100% {
+        background-position: 800px 0px; /* End position */
+    }
+}
+
+.animate-loader {
+    animation: loader 1.5s infinite linear; /* Adjusted duration for smoother animation */
+}
+
+
+.animate-loader {
+    animation: loader 1.5s infinite linear; /* Adjusted duration for smoother animation */
+}
+
+*{
+  padding :0;
+  margin:0;
+}
+#root{
+  min-height: 100vh;
+  display:flex;
+}

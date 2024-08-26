@@ -1,6 +1,6 @@
 import React, { useContext } from 'react';
 // import { ThemeContext } from '../context/ThemeContext';
-import { ThemeContext } from '../../context/Theme';
+import { ThemeContext } from '../../Context/Theme';
 const ThemeBtn = () => {
     const { themeMode, lightTheme, darkTheme } = useContext(ThemeContext);
 

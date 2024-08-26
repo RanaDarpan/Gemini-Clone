@@ -7,18 +7,18 @@ This is a Gemini Clone built using React and Vite. The project was created as a 
 
 
 # 🌟 Features
--**Gemini API Integration:** Utilized for fetching and displaying AI-generated content.
--**Light and Dark Themes:** Users can toggle between light and dark modes.
--**Responsive Design:** Fully responsive layout for desktop and mobile devices.
--**User Prompt Sidebar:** A sidebar that captures, stores, and displays recent user prompts for easy access.
--**Text Formatting:** Integrated text typing effect with support for text formatting like bold.
+- **Gemini API Integration:** Utilized for fetching and displaying AI-generated content.
+- **Light and Dark Themes:** Users can toggle between light and dark modes.
+- **Responsive Design:** Fully responsive layout for desktop and mobile devices.
+- **User Prompt Sidebar:** A sidebar that captures, stores, and displays recent user prompts for easy access.
+- **Text Formatting:** Integrated text typing effect with support for text formatting like bold.
 
 
 # Tech Stack
--**HTML5**
--**Tailwind css**
--**React**
--**Vite**
+- **HTML5**
+- **Tailwind css**
+- **React**
+- **Vite**
 
 
 # Deployement 

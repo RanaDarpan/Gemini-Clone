@@ -23,7 +23,7 @@ This is a Gemini Clone built using React and Vite. The project was created as a 
 
 # Deployement 
 
-The project is deployed on Vercel. [Visit the live site here](https://vercel.com/)
+The project is deployed on Vercel. [Visit the site here](https://vercel.com/)
 
 # 🚀 Live Demo
 Check out the live demo of the project [here](https://geminiclone-rana.vercel.app/)

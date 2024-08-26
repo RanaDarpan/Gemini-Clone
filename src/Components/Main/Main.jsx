@@ -1,7 +1,7 @@
 import React, { useContext } from 'react';
 import { assets } from '../../assets/assets';
 import { Context } from '../../Context/Context';
-import { ThemeContext } from '../../context/Theme';
+import { ThemeContext } from '../../Context/Theme';
 import ThemeBtn from './Themebtn';
 
 export const Main = () => {

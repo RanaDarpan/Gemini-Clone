@@ -1,7 +1,7 @@
 import React, { useContext, useState } from 'react';
 import { assets } from '../../assets/assets';
 import { Context } from '../../Context/Context';
-import { ThemeContext } from '../../context/Theme';
+import {ThemeContext} from '../../Context/Theme';
 
 export const Sidebar = () => {
     const [extended, setExtended] = useState(false);
